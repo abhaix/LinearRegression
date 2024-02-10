@@ -16,7 +16,7 @@ The Salary Prediction Project is a machine learning project that uses a linear r
 1. Clone the repository:
 
 
-git clone https://github.com/abhaix/LINEARREGRESSION/Salary-Prediction.git
+git clone https://github.com/abhaix/LinearRegression/tree/main/Salary%20Prediction
 
 1. Navigate to the project directory:
 - cd Salary-Prediction-Project
