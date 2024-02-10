@@ -16,13 +16,13 @@ The Salary Prediction Project is a machine learning project that uses a linear r
 1. Clone the repository:
 
 
-git clone https://github.com/abhaix/LinearRegression/tree/main/Salary%20Prediction
+git clone https://github.com/abhaix/LinearRegression.git
 
 1. Navigate to the project directory:
 - cd Salary-Prediction-Project
 
 2. Install the required dependencies:
-- pip install -r Requirements.txt ```
+- pip install -r Requirements.txt
 
 ## Usage
 
